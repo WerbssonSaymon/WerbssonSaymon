@@ -1,5 +1,7 @@
 ### Olá, me chamo Werbsson Saymon 👋
 
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=WerbssonSaymon&theme=gotham)
+
 ### Minhas Habilidades:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
