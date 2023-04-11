@@ -28,3 +28,9 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{WerbssonSaymon}/count.svg" /></p> 
 <br></div>
+
+<p>Contatos</p>
+<ul>
+  <li>Gmail: saymoncontato20@gmail.com</li>
+  <li>Instagram: @werbsson_saymon</li>
+</ul>
