@@ -28,7 +28,15 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{WerbssonSaymon}/count.svg" /></p> 
 <br></div>
 
-<p>Contatos</p>
+<h3>Conhecimentos</h3>
+<ul>
+  <li>UML</li>
+  <li>Analise orientada a objetos</li>
+  <li>Projetos orientados a objetos</li>
+  <li>Programação orientada a objetos</li>
+</ul>
+
+<h3>Contatos</h3>
 <ul>
   <li>Gmail: saymoncontato20@gmail.com</li>
   <li>Instagram: @werbsson_saymon</li>
