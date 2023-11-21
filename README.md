@@ -34,10 +34,12 @@
   <li>Analise orientada a objetos</li>
   <li>Projetos orientados a objetos</li>
   <li>Programação orientada a objetos</li>
+  <li>UX/UI</li>
 </ul>
 
 <h3>Contatos</h3>
 <ul>
   <li>Gmail: saymoncontato20@gmail.com</li>
   <li>Instagram: @werbsson_saymon</li>
+  <li>Linkedin: https://www.linkedin.com/in/werbsson-saymon-83b6a5278/</li>
 </ul>
