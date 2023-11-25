@@ -30,7 +30,7 @@
 
 <h3>Conhecimentos</h3>
 <ul>
-  <li>UML</li>
+  <li>Diagramas UML</li>
   <li>Analise orientada a objetos</li>
   <li>Projetos orientados a objetos</li>
   <li>Programação orientada a objetos</li>
