@@ -31,6 +31,7 @@
 <h3>Conhecimentos</h3>
 <ul>
   <li>Diagramas UML</li>
+  <li>Diagrama entidade-relacionamento</li>
   <li>Analise orientada a objetos</li>
   <li>Projetos orientados a objetos</li>
   <li>Programação orientada a objetos</li>
