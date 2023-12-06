@@ -36,6 +36,7 @@
   <li>Projetos orientados a objetos</li>
   <li>Programação orientada a objetos</li>
   <li>UX/UI</li>
+  <li>Prototipação</li>
 </ul>
 
 <h3>Contatos</h3>
