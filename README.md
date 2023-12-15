@@ -37,6 +37,7 @@
   <li>Analise orientada a objetos</li>
   <li>Projetos orientados a objetos</li>
   <li>Programação orientada a objetos</li>
+  <li>Logica de programação</li>
   <li>UX/UI</li>
   <li>Prototipação</li>
 </ul>
