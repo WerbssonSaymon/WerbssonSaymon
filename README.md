@@ -1,6 +1,6 @@
 <h1 align="center"><b> Olá, me chamo Werbsson Saymon 👋 </b></h1>
 <h2 align="center"><b> Seja bem vindo ao meu GitHub </b></h2>
-<h3 align="center"> Analista e Desenvolvedor de Sistemas / Desenvolvedor Front-End </h3>
+<h3 align="center"> Analista e Desenvolvedor de Sistemas | Desenvolvedor Front-End </h3>
 <p align="center">Procuro oportunidades para ajudar equipes e desenvolver projetos, compartilhar conhecimentos e crescer na carrera de tecnologia </p>
 
 <div align="center">  
