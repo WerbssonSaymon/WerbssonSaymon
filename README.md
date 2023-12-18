@@ -1,7 +1,7 @@
-<h1 align="center"><b> Olá, me chamo Werbsson Saymon 👋 </b></h1>
+<h1 align="center"><b> Olá, me chamo Werbsson Saymon </b></h1>
 <h2 align="center"><b> Seja bem vindo ao meu GitHub </b></h2>
 <h3 align="center"> Analista e Desenvolvedor de Sistemas | Desenvolvedor Front-End </h3>
-<p align="center">Procuro oportunidades para ajudar equipes e desenvolver projetos, compartilhar conhecimentos e crescer na carrera de tecnologia </p>
+<p align="center">Procuro oportunidades para ajudar equipes com minhas habilidades e desenvolver projetos, compartilhar conhecimentos e crescer na carrera de tecnologia </p>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WerbssonSaymon&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Werbsson Saymon github stats" /> 
