@@ -1,7 +1,7 @@
 <h1 align="center"><b> Olá, me chamo Werbsson Saymon </b></h1>
 <h2 align="center"><b> Seja bem vindo ao meu GitHub </b></h2>
 <h3 align="center"> Analista e Desenvolvedor de Sistemas | Desenvolvedor Front-End </h3>
-<p align="center">Procuro oportunidades para ajudar equipes com minhas habilidades e desenvolver projetos, compartilhar conhecimentos e crescer na carrera de tecnologia </p>
+<p align="center">Procuro oportunidades para ajudar equipes com minhas habilidades e desenvolver projetos, compartilhar conhecimentos e crescer na carrera de tecnologia, atuando no momento como freelancer em criação de sites e sistemas web </p>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WerbssonSaymon&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Werbsson Saymon github stats" /> 
@@ -18,17 +18,20 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 ### Back-end
+![NodeJS](https://img.shields.io/badge/-Node.JS-339933?style=for-the-badge&logo=node.js&labelColor=339933&logoColor=white)&nbsp;
+![Express](https://img.shields.io/badge/Express-%23333?style=for-the-badge&logo=express&logoColor=white)&nbsp;
+
+### Banco de dados
 ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 ### Estudando:
 ![Java](https://img.shields.io/badge/Java-DD1100?style=for-the-badge&logo=java&labelColor=0D1117&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![NodeJS](https://img.shields.io/badge/-Node.JS-339933?style=for-the-badge&logo=node.js&labelColor=339933&logoColor=white)&nbsp;
 ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-F7DF1E?style=for-the-badge&logo=jest&labelColor=F7DF1E&logoColor=black)&nbsp;
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&labelColor=61DAFB&logoColor=black)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117&textColor=0D1117)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&labelColor=06B6D4&logoColor=black)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
