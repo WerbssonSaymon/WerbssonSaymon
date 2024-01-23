@@ -55,5 +55,5 @@
   <li>Gmail: saymoncontato20@gmail.com</li>
   <li>Instagram: @werbsson_saymon</li>
   <li>Linkedin: https://www.linkedin.com/in/werbsson-saymon-83b6a5278/</li>
-  <li>Portfolio: https://werbssonsaymon.github.io/portfolio/</li>
+  <button href="https://werbssonsaymon.github.io/portfolio/">Portfolio</button>
 </ul>
