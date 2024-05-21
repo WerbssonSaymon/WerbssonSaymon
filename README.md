@@ -1,13 +1,20 @@
 <h1 align="center"><b> Olá, me chamo Werbsson Saymon </b></h1>
-<h2 align="center"> Analista e Desenvolvedor de Sistemas | Desenvolvedor Front-End </h2>
+<h2 align="center"> Analista e Desenvolvedor de Sistemas | Desenvolvedor FullStack</h2>
 
 <div align="justify">
   <p>Procuro oportunidades para ajudar equipes com minhas habilidades e desenvolver projetos, compartilhar conhecimentos e crescer na carrera de tecnologia, atuando no momento como freelancer em criação de sites e sistemas web </p>
-  <p>Trabalho com UX/UI usando Figma para prototipação de interfaces, escrevo Diagramas UML e MER para documentação de projetos, Analise de dados com Python e PowerBI, tenho conhecimento em Projetos, Analise e Programação Orientada a Objetos, desenvolvimento de logica de programação, algoritmos e Banco de dados SQL e NoSQL, aplicação de testes unitarios com Jest, Padrões e Arquitetura de projetos e metodologias ágeis como Scrum e Kanban</p>
+  <p>Trabalho com UX/UI usando Figma para prototipação de interfaces, escrevo Diagramas UML e MER para documentação de projetos, tenho conhecimento em Projetos, Analise e Programação Orientada a Objetos, desenvolvimento de logica de programação, algoritmos e Banco de dados SQL e NoSQL, aplicação de testes unitarios com Jest, Padrões e Arquitetura de projetos e metodologias ágeis como Scrum e Kanban</p>
   <p>Entre meus principais trabalhos estão a criação de um sistema web para uma barbearia com NODE. React e MySQL e criações de Landing Pages e Single Pages Aplications</p>
 </div>
 
 ## Minhas Habilidades:
+
+### Gestão de Projetos
+![Analise de Requisitos](https://img.shields.io/badge/Express-%23333?style=for-the-badge&logo=&logoColor=white)&nbsp;
+![Diagramas UML](https://img.shields.io/badge/Express-%23333?style=for-the-badge&logo=&logoColor=white)&nbsp;
+![Metodologias Ageis](https://img.shields.io/badge/Express-%23333?style=for-the-badge&logo=&logoColor=white)&nbsp;
+![CRM](https://img.shields.io/badge/Express-%23333?style=for-the-badge&logo=&logoColor=white)&nbsp;
+
 ### Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
