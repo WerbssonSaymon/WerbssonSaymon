@@ -10,10 +10,10 @@
 ## Minhas Habilidades:
 
 ### Gestão de Projetos
-![Analise de Requisitos](https://img.shields.io/badge/Express-%23333?style=for-the-badge&logo=&logoColor=white)&nbsp;
-![Diagramas UML](https://img.shields.io/badge/Express-%23333?style=for-the-badge&logo=&logoColor=white)&nbsp;
-![Metodologias Ageis](https://img.shields.io/badge/Express-%23333?style=for-the-badge&logo=&logoColor=white)&nbsp;
-![CRM](https://img.shields.io/badge/Express-%23333?style=for-the-badge&logo=&logoColor=white)&nbsp;
+![Analise de Requisitos](https://img.shields.io/badge/Analise_de_Requisitos-0769AD?style=for-the-badge&logo=azure&logoColor=white)&nbsp;
+![Diagramas UML](https://img.shields.io/badge/Diagramas_UML-0769AD?style=for-the-badge&logo=azure&logoColor=white)&nbsp;
+![Metodologias Ageis](https://img.shields.io/badge/Metodologias_Ageis-0769AD?style=for-the-badge&logo=azure&logoColor=white)&nbsp;
+![CRM](https://img.shields.io/badge/CRM-0769AD?style=for-the-badge&logo=azure&logoColor=white)&nbsp;
 
 ### Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
