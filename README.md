@@ -7,6 +7,19 @@
   <p>Entre meus principais trabalhos estão a criação de um sistema web para uma barbearia com NODE. React e MySQL e criações de Landing Pages e Single Pages Aplications</p>
 </div>
 
+## Meus melhores projetos
+
+- Sistema de gestão escolar com React, Next, Express e MySQL <br>
+[SISTEMA ESCOLAR FULLSTACK](https://github.com/WerbssonSaymon/next-sistema-escolar-fullstack) 
+- Clone do site Playstation com Angular e CSS <br>
+[CLONE UI PLAYSTATION](https://angular-psn-store-clone-beta.vercel.app/)
+- Clone do site BMG com React, Next, TailwindCSS e Typescript <br>
+[CLONE UI BMG](https://next-bmg-clone.vercel.app/)
+- Repositorio de APIs com NodeJS e Express <br>
+[APIs - EXPRESS](https://github.com/WerbssonSaymon/APIs)
+- Repositório de Banco de dados MySQL e MongoDB <br>
+[BANCO DE DADOS - SQL](https://github.com/WerbssonSaymon/bancos-de-dados)
+
 ## Minhas Habilidades:
 
 ### Gestão de Projetos
@@ -25,23 +38,16 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&labelColor=61DAFB&logoColor=black)&nbsp;
 ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
 
-[CLONE UI PLAYSTATION - ANGULAR, CSS](https://angular-psn-store-clone-beta.vercel.app/) <br>
-[CLONE UI BMG- NEXT, REACT, TAILWINDCSS, TYPESCRIPT](https://next-bmg-clone.vercel.app/)
-
 ### Back-end
 ![NodeJS](https://img.shields.io/badge/-Node.JS-339933?style=for-the-badge&logo=node.js&labelColor=339933&logoColor=white)&nbsp;
 ![Express](https://img.shields.io/badge/Express-%23333?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-DD1100?style=for-the-badge&logo=java&labelColor=0D1117&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 
-[APIs - EXPRESS](https://github.com/WerbssonSaymon/APIs)
-
 ### Banco de dados
 ![SQL](https://img.shields.io/badge/Sql-0769AD?style=for-the-badge&logo=sql&logoColor=white)&nbsp;
 ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-
-[BANCO DE DADOS - SQL](https://github.com/WerbssonSaymon/bancos-de-dados)
 
 ### Operações e Nuvem:
 
