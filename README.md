@@ -4,7 +4,7 @@
 <div align="justify">
   <p>Procuro oportunidades para ajudar equipes com minhas habilidades e desenvolver projetos, compartilhar conhecimentos e crescer na carrera de tecnologia, atuando no momento como freelancer em criação de sites e sistemas web </p>
   <p>Trabalho com UX/UI usando Figma para prototipação de interfaces, escrevo Diagramas UML e MER para documentação de projetos, tenho conhecimento em Projetos, Analise e Programação Orientada a Objetos, desenvolvimento de logica de programação, algoritmos e Banco de dados SQL e NoSQL, aplicação de testes unitarios com Jest, Padrões e Arquitetura de projetos e metodologias ágeis como Scrum e Kanban</p>
-  <p>Entre meus principais trabalhos estão a criação de um sistema web para uma barbearia com NODE. React e MySQL e criações de Landing Pages e Single Pages Aplications</p>
+  <p>Entre meus principais trabalhos estão a criação de um sistema web para uma barbearia com NODE. React e MySQL e criações de Landing Pages e Single Pages Aplications com Angular e React </p>
 </div>
 
 ## Meus melhores projetos
