@@ -16,10 +16,10 @@
 [CLONE UI PLAYSTATION](https://angular-psn-store-clone-beta.vercel.app/)
 - Clone do site BMG com React, Next, TailwindCSS e Typescript <br>
 [CLONE UI BMG](https://next-bmg-clone.vercel.app/)
-- Repositorio de APIs com NodeJS e Express <br>
-[APIs - EXPRESS](https://github.com/WerbssonSaymon/APIs)
+- Repositorio de APIs com NodeJS, Express, Prisma, Typescript e Java Springboot <br>
+[APIs](https://github.com/WerbssonSaymon/APIs)
 - Repositório de Banco de dados MySQL e MongoDB <br>
-[BANCO DE DADOS - SQL](https://github.com/WerbssonSaymon/bancos-de-dados)
+[BANCO DE DADOS](https://github.com/WerbssonSaymon/bancos-de-dados)
 
 ## Minhas Habilidades:
 
